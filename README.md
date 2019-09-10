@@ -2,7 +2,11 @@
 
 ## Curso del CEP de Antequera
 
-## Marzo de 2019
+29  Octubre
+ 5  Noviembre
+12  Noviembre
+19  Noviembre
+10  Diciembre
 
 ### José Antonio Vacas @javacasm
 
@@ -12,7 +16,7 @@
 
 # Iniciación a la programación con Scratch
 
-Curso con 15 horas presenciales y  ¿5? de trabajo online
+Curso con 12 horas presenciales
 
 ## Justificación
 
