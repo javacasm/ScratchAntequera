@@ -49,7 +49,7 @@ El objetivo del curso es presentar estas herramientas sencillas y atractivas par
   * [Personajes, disfraces, escenarios](./Scratch.md#personaje)
   * [Sonidos y animaciones](./Scratch.md#sonido)
 * [Ejemplos de juegos con scratch](./Ejemplos.md)
-* [Generar un ejecutable desde un proyecto Scratch](https://wiki.scratch.mit.edu/wiki/Porting_Scratch_Projects#Scratch_online_to_EXE)
+
 ## [Recursos](./recursos.md)
 
 ## [OpenSource](./opensource.md)
