@@ -14,7 +14,7 @@
 
 # Iniciación a la programación con Scratch
 
-Curso con 12 horas presenciales
+Curso con 15 horas presenciales
 
 ## Justificación
 
