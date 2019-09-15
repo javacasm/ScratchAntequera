@@ -37,6 +37,7 @@ El objetivo del curso es presentar estas herramientas sencillas y atractivas par
 * Entender la importancia de enseñar a programar
 * Conocer herramientas de iniciación a la programación
 * Realizar programas sencillos con Scratch
+* Aprender a interacción con el mundo físico usando la placa Makey-makey
 
 
 ## Contenidos
@@ -49,7 +50,7 @@ El objetivo del curso es presentar estas herramientas sencillas y atractivas par
   * [Personajes, disfraces, escenarios](./Scratch.md#personaje)
   * [Sonidos y animaciones](./Scratch.md#sonido)
 * [Ejemplos de juegos con scratch](./Ejemplos.md)
-
+* [Ejemplos de proyectos con Makey-makey](./MakeyMakey_tutorial.md)
 ## [Recursos](./recursos.md)
 
 ## [OpenSource](./opensource.md)
