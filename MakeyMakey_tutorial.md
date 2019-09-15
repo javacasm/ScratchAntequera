@@ -20,11 +20,11 @@ Por detrás
 
 ¿Qué necesitamos?
 
-![pinzas](./images/Aligators.jpg)
+![pinzas](./imagenes/Aligators.jpg)
 
 ## [¿Cómo funciona?](http://makeymakey.com/howto.php)
 
-![howitworks](./images/makey-makey-how-it-works.jpg)
+![howitworks](./imagenes/makey-makey-how-it-works.jpg)
 
 ![detalles](https://cdn.sparkfun.com/assets/b/0/0/9/1/52e94391ce395fb9278b4567.png)
 
