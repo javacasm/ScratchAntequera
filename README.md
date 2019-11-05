@@ -3,7 +3,8 @@
 ## Curso del CEP de Antequera en 2019
 
 
-29 Octubre, 5,12 y 19 de  Noviembre y Exposición de trabajos el 10 de Diciembre
+5,12 y 19 de  Noviembre 
+Exposición de trabajos el 3 de Diciembre
 
 
 ### José Antonio Vacas @javacasm
