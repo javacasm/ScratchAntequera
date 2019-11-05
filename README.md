@@ -1,4 +1,4 @@
-# Iniciación a la programación con Scratch ()
+# Iniciación a la programación con Scratch y Makey-Makey
 
 ## Curso del CEP de Antequera en 2019
 
@@ -13,9 +13,6 @@ Exposición de trabajos el 3 de Diciembre
 
 ## https://github.com/javacasm/ScratchAntequera
 
-# Iniciación a la programación con Scratch
-
-Curso con 15 horas presenciales
 
 ## Justificación
 
