@@ -2,7 +2,7 @@
 
 ## Curso del CEP de Antequera
 
-## Marzo de 2019
+## Noviembre de 2019
 
 ### José Antonio Vacas @javacasm
 
@@ -10,7 +10,49 @@
 
 ## https://github.com/javacasm/ScratchAntequera
 
+
 # Ejemplos
+
+## Gatito moviéndose en el desierto
+
+* Movemos nuestro gatito
+* Colocamos en una posición inicial y le damos un tamaño
+* Animamos, cambiando entre los dos fotogramas del disfraz y haciendo que vaya cambiando de tamaño al alejarse
+* Hacemos que hable con la extensión TTS
+* Cambiamos entre los 2 fondos/escenarios
+
+![Movemos gatito](./imagenes/MoviendoGatito.png)
+
+[Proyecto](https://scratch.mit.edu/projects/342153802/)
+
+## Dibujamos polígonos
+
+* Dibujamos polígonos usando la extensión Lápiz
+* Nos movemos y giramos
+* Usamos bucles para repetir acciones
+* Preguntados al usuario y usamos su respuesta
+* Usamos variables para guardar datos
+* Hacemos cálculos con los operadores matemáticos y guardamos en variables
+* Usamos la extensión TTS para hablar
+
+
+![DibujamosPoligonos](./imagenes/DibujamosPoligonos.png)
+
+[Proyecto](https://scratch.mit.edu/projects/342175162/)
+
+## Hablamos en otros idiomas, por ejemplo chino
+
+* Usamos una imagen que descargamos para nuestro personaje. La [imagen usada](https://cdn.pixabay.com/photo/2017/11/07/01/00/buddha-2925330_960_720.png) tiene fondo transparente para facilitar la integración con el escenario. Para ello buscamos imágenes con fondo transparente
+* Usamos la extensión TTS para hablar
+* Seleccionamos el idioma
+* Usamos una variable para crear el bucle y hacer que diga los números en Chino
+
+
+![Hablando chino](./imagenes/HablandoChino.png)
+
+[Proyecto](https://scratch.mit.edu/projects/342194982/)
+
+# Ejemplos de videojuegos
 
 Veamos algunos ejemplos de juegos y cómo implementarlos en scratch
 
