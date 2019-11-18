@@ -40,6 +40,35 @@
 
 [Proyecto](https://scratch.mit.edu/projects/342175162/)
 
+
+## Creando nuestro bloques: dibuja-Poligono
+
+¿Y si queremos dibujar varios polígonos? ¿Copiamos y pegamos varias veces nuestro bloques?
+
+A partir del ejemplo anterior vemos la conveniencia de definir un bloque que nos permite dibujar fácilmente un polígono de **N** lados. 
+
+Para ello vamos a "Mis Bloques" y creamos uno nuevo. Tendrá una entrada (argumento) de tipo numérico para que le podamos indicar el número de lados que queremos que tenga
+
+![Bloque-Dibuja-Poligono](./imagenes/Bloque-Dibuja-Poligono.png)
+
+Una vez creado lo podemos usar sin más indicarle cuantos tendrá nuestro polígono
+
+Para usar este bloque en otro proyecto sólo tenemos que arrastrarlo a nuestra mochila
+
+![mochila](./imagenes/mochila.png)
+
+[Proyecto](https://scratch.mit.edu/projects/344212953)
+
+## Reaprovechando el bloque dibuja-poligono
+
+A partir del bloque creado dibujaremos estrellas, ya que sabemos su utilidad crearemos otro bloque las dibuje
+
+![BloqueDibujarEstrella](./imagenes/BloqueDibujarEstrella.png)
+
+Que también guardaremos en nuestra mochila
+
+[Proyecto](https://scratch.mit.edu/projects/344217567/)
+
 ## Hablamos en otros idiomas, por ejemplo chino
 
 * Usamos una imagen que descargamos para nuestro personaje. La [imagen usada](https://cdn.pixabay.com/photo/2017/11/07/01/00/buddha-2925330_960_720.png) tiene fondo transparente para facilitar la integración con el escenario. Para ello buscamos imágenes con fondo transparente
@@ -51,6 +80,30 @@
 ![Hablando chino](./imagenes/HablandoChino.png)
 
 [Proyecto](https://scratch.mit.edu/projects/342194982/)
+
+
+## Juego de persecución
+
+Juego de persecución entre 2 personajes, uno que controlamos nosotros con teclas y otro con movimiento automático
+
+![Diseño](./imagenes/Disenio.png)
+
+Movemos de modo automático y aleatorio el león
+
+![Movimiento Automatico Leon](./imagenes/MovimientoAutomaticoLeon.png)
+
+Para adecuar el disfraz usamos los bloques de cambio de disfraz entre los 3 que miran a un lado y los otros 3 que miran al otro. También podíamos haberlo hecho con lo pares e impares
+
+![Disfraces Leon](./imagenes/DisfracesLeon.png)
+
+El mono lo movemos manualmente mediante teclas
+
+![Movimiento Manual](./imagenes/MovimientoManualMono.png)
+
+[Proyecto](https://scratch.mit.edu/projects/344239241/)
+
+
+Podemos usar la placa Makey-Makey para controlar los movimientos
 
 # Ejemplos de videojuegos
 
