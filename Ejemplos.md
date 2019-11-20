@@ -103,7 +103,72 @@ El mono lo movemos manualmente mediante teclas
 [Proyecto](https://scratch.mit.edu/projects/344239241/)
 
 
-Podemos usar la placa Makey-Makey para controlar los movimientos
+
+## Interacción: sonido
+
+Podemos grabar nuestros propios sonidos
+
+### Semáforo sonoro
+
+Creamos nuestros fondos, duplicando uno determinado
+
+![Fondos](./imagenes/SemaforoSonoroFondos.png)
+
+Usamos el bloque de nivel sonoro y en función de su valor cambiamos de un fondo a otro 
+
+![Bloques](./imagenes/SemaforoSonoroBloques.png)
+
+[Proyecto](https://scratch.mit.edu/projects/346409965/)
+
+
+
+
+## Interacción: vídeo
+
+Ejemplo sencillo de movimiento de personajes detectando el movimiento por video
+
+![Movimientovideo](./imagenes/Movimientovideo.png)
+
+[Proyecto](https://scratch.mit.edu/projects/346427636/)
+
+
+## Interaccion: makey-makey
+
+
+### Batería y piano
+
+Sobre un fondo musical añadimos objetos musicales
+
+![MusicaFondo](./imagenes/MusicaFondo.png)
+
+Los instrumentos de percusión reproducirán sonidos de percusión
+
+![BloqueTambor](./imagenes/BloqueTambor.png)
+
+En el fondo incluímos sonidos de notas para las teclas a,s,d y f y de percusión para el espacio y las teclas del cursor
+
+![FondoTeclas](./imagenes/FondoTeclas.png)
+
+Ahora conectamos un makey-makey que se encargará de enviar esas mismas teclas cuando cerramos el circuito de los correspondientes cables
+
+![bateria.jpg](./imagenes/bateria.jpg)
+
+![bateria2.jpg](./imagenes/bateria2.jpg)
+
+[Proyecto](https://scratch.mit.edu/projects/346433323/)
+
+### Quiz
+
+Podemos hacer un juego de enlazar preguntas y respuestas. Conectamos las preguntas  las letras a,s,d y f y las respuestas a las 4 teclas del cursos.
+
+Necesitamos pulsar al mismo tiempo la pregunta y la respuesta (lo que equivale a 2 teclas pulsadas)
+
+Codificamos las respuesta válida a una pregunta con un operador lógico **Y**
+
+![Quizz-blocks.png](./imagenes/Quizz-blocks.png)
+
+[Proyecto](https://scratch.mit.edu/projects/346465940/editor)
+
 
 # Ejemplos de videojuegos
 
