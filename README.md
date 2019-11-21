@@ -1,6 +1,6 @@
-# Iniciación a la programación con Scratch y Makey-Makey
+# APRENDE A PROGRAMAR CON SCRATCH ([202925GE303](https://www.juntadeandalucia.es/educacion/secretariavirtual/consultaCEP/actividad/202925GE303/))
 
-## Curso del CEP de Antequera en 2019
+## Curso del CEP de Antequera -  2019 
 
 
 5,12 y 19 de  Noviembre 
