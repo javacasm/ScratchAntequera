@@ -49,6 +49,8 @@ El objetivo del curso es presentar estas herramientas sencillas y atractivas par
   * [Sonidos y animaciones](./Scratch.md#sonido)
 * [Ejemplos de juegos con scratch](./Ejemplos.md)
 * [Ejemplos de proyectos con Makey-makey](./MakeyMakey_tutorial.md)
+* ¿[Qué y dónde comprar](./Comprar.md)?
+
 ## [Recursos](./recursos.md)
 
 ## [OpenSource](./opensource.md)
